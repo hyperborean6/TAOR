@@ -7,7 +7,7 @@ I am writing this book as the first community contribution based ontology. I hav
 Right now, at large, the social cohesion of communities is being dissolved. The visible patterns emergent as a result of this are people "reacting" to each new crisis with a total lack of teamwork or foresight. But creating a shared vision and community conscioussness could change that. Im not trying to "re-assemble the pieces of the old system". Im describing something new. By building a strong identitity, then planning for shared goals it becomes much easier to accomplish difficult things.
 
 # How
-This document explains how you as an individual can grow your community. The process will be self expanding to other more capable people and transition to more of the noble lie to those on the edges.
+This document explains how you as an individual can grow your community.
 
 
 # Contributions

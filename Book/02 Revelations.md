@@ -1,6 +1,6 @@
-I’m going to keep this short. Developing a real understanding took time for me. But I want to explain my broad understanding of what exists and the options I perceive ahead.
+These revelations are the connecting point of the human ontological framework. I believe that sane, healthy and functioning individuals can agree on the following conclusions if carefully examined. By agreeing and focusing on these conclusions we can build relationships based on common beliefs.
 
-*The potential for God is Only Limited by the potential for consciousness*
+*Revelation #1 - The potential for God is Only Limited by the potential for consciousness*
 
 Important revelation number 1 came when I was in my computer lab several years ago writing some computer programs. My focus was algorithms and at this time I was really enjoying thinking about computational graphs and groups of numbers in a probabilistic way. This led me to think a lot about consciousness, starting with human consciousness and branching out into other areas. I was trying to move from the qualitative to the quantitative by defining the word consciousness mathematically among other words like knowledge and reasoning. I realized after a while I was always looking at smaller consciousnesses. Then it suddenly dawned on me. That my consciousness or maybe any consciousness has trouble measuring and determining about a consciousness  greater than its own.
 
@@ -39,13 +39,15 @@ The purpose aspect is the acknowledgement of participation within a community. B
 
 In the above drawing I use the water cycle as a metaphor for the movement of energy into various measurable outcomes. The spiritual health feeds into the mental health, the mental health flows into the physical health, then the physical into the material. Finally our outputs flow into our community and are taken up to be dispersed again at the top of the stream. When communities lose one of these areas they often lack the understanding that those things were supplied upstream in the cycle. They can, for a generation or two, fake it by sacrificing their spiritual health or mental health further through an unsustainable work ethic or by trading away the community's spiritual health or mental health. But those who are spiritually healthy will have a tremendous flow downstream. Their material wealth will grow incidentally. When the spiritual health is intact and you understand and achieve your purpose then everything else will start falling into place.
 
-The last isnt so much a revelation but rather an extremely important concept that must be examined critically. Defining consciousness. I’m not going to make this mathy but I think it should eventually reach that stage. For example C=K. Where C equals consciousness and K equals knowledge. That’s a simple example but a really bad one. If you teach someone two things, one being right and another being wrong are they any better off?What if you spend years teaching someone skills to earn money in a complex economy but also teach them the world is arbitrary and to have a nihilistic agnostic outlook? Are they more conscious? Or more like a slave? What about the shared beliefs of the community? If a community believes its existence, values and goals are arbitrary or pointless what can be accomplished?
+* The Truth, the whole truth and nothing but the truth*
 
-These are important questions. Here is an interesting equation
+The last isnt so much a revelation but rather an extremely important concept that must be examined critically. Defining consciousness. I’m not going to make this mathy but I think it should eventually reach that stage. For example C=K. Where C equals consciousness and K equals knowledge. That’s a simple example but a really bad one. If you teach someone two things, one being right and another being wrong are they any better off?What if you spend years teaching someone skills to earn money in a complex economy but also teach them the world is arbitrary and to have a nihilistic agnostic outlook? Are they more conscious? Or more like a slave? What about the shared beliefs of the community? If a community believes its existence, values and goals are arbitrary or pointless what can be accomplished? Also, in defining god/spirituality/etc I chose to leave out many concepts that are often in the spiritual community because I dont want to fill people with fantasy, focus on shared proveable reality. Some descriptors of high conscioussness people are curiosity, high effort reasoning and investigation, the encouragement of external review, sceptisism, the willingness to change their mind. Don't believe everything you can imagine or are told. Your limit to changing is your limitation in admitting your wrong.
+
+These are important questions. Also, Here is an interesting equation
 
 Consciousness = Time * (mental qualities * environment)
 
-C = fluid intelligence + ((correct knowledge or reactions * variance) - incorrect(* variance)
+C = fluid intelligence + ((correct knowledge or reactions * variance) - incorrect(* variance))
 
 /distance of usefulness
 
