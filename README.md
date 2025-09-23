@@ -8,6 +8,7 @@ Right now, at large, the social cohesion of communities is being dissolved. The 
 
 # How
 This document explains how you as an individual can grow your community.
+You should read it as if you are proofreading your lifes core beliefs and make any edits that build upon it.
 
 
 # Contributions
